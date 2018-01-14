@@ -7,5 +7,5 @@ Update slic3r.ini and files in /src/slic3r for slic3r instructions to apply in s
 In project folder type `make`. 
 
 # Repos
-https://github.com/istergiou/filament-holder
-https://www.thingiverse.com/thing:TODO
+- https://github.com/istergiou/filament-holder
+- https://www.thingiverse.com/thing:2756771
